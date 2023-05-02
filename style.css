@@ -305,7 +305,7 @@ a:hover{
     }
     .faqs{
         margin-top: 200px;
-        margin-left: -160px;
+        margin-left: -200px;
         flex-direction: column;
     }
     .first{
